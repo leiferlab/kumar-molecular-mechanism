@@ -1,6 +1,6 @@
 # kumar-molecular-mechanism
 
-## This is the code used to analyze the data presented in S. Kumar, A. K. Sharma, and A. M. Leifer, titled "An inhibitory acetylcholine receptor gates context dependent mechanosensory processing in *C. elegans*". 
+## This is the code used to analyze the data presented in S. Kumar, A. K. Sharma, and A. M. Leifer, titled "An inhibitory acetylcholine receptor gates context dependent mechanosensory processing in *C. elegans*". Here is the link to the preprint: https://doi.org/10.1101/2024.03.21.586204
 
 This study uses a targeted optogenetic delivery system published previously. More details can be found at the following publications:
 1) Liu et al., *PLoS Biology* 2022 (https://doi.org/10.1371/journal.pbio.3001524).
