@@ -15,3 +15,6 @@ Requirements:
  - h5labview
 
 To run the real-time LabVIEW code, open the LabVIEW project at `\LabviewVIs\ProjectAPI.lvproj` and then select the appropriate experimental protocol vi. For example, open loop stimulation is done using `RunFullWormRails.vi`, closed-loop stimulation on turns was done using `RunRailsTriggeredByTurning.vi`. 
+
+Computer-readable files showing processed tracked behavior and optogenetic stimulus events for all experiments are publicly available at
+https://doi.org/10.6084/m9.figshare.25396453.
